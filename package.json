@@ -1,7 +1,7 @@
 {
     "name": "lacoloc",
     "preductname": "La coloc'",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Launcher Minecraft pour le serveur La coloc'",
     "main": "src/app.js",
     "author": {
