@@ -1,8 +1,8 @@
 {
-    "name": "Grasslandia-Launcher",
-    "preductname": "Grasslandia Launcher",
-    "version": "1.0.1",
-    "description": "Launcher Mincraft pour le serveur Grasslandia",
+    "name": "lacoloc",
+    "preductname": "La coloc'",
+    "version": "1.0.2",
+    "description": "Launcher Minecraft pour le serveur La coloc'",
     "main": "src/app.js",
     "author": {
         "name": "Lumix.",
@@ -14,7 +14,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://raw.githubusercontent.com/luuxis/Selvania-Launcher/master/src/assets/images/icon.png"
+        "icon": "node build.js --icon=https://i.postimg.cc/Wb1LHPxS/Gay-Pride-Flag-svg-1.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
